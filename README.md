@@ -1,4 +1,6 @@
-# snakengame
+# Snake Game
+
+[Play Game](https://snake-game-pradhyumn-singhs-projects.vercel.app/)
 
 A new Flutter project.
 
